@@ -4,6 +4,7 @@
 此时我们创建了两个文件：
 - alien_invasion.py 创建一个空的pygame窗口
 - settings.py 关于游戏的所有设置
+- 运行 alien_invasion.py文件即可
 
 ## 代码解析
 
